@@ -11,7 +11,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I love watching football highlights.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-banniroy-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-banniroy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/abdulmatin-adekola-63a58a254)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
