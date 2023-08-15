@@ -23,8 +23,10 @@ Here are some of the languages and tools I'm proficient in:
 - ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg) CSS3
 - ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) HTML5
 - ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) JavaScript
-- ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) TypeScript (Added as requested)
-- ![Jest](https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg) Jest (Added as requested)
+- ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) TypeScript
+- ![Jest](https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg) Jest
+
+---
 
 Feel free to connect with me and explore my work!
 
