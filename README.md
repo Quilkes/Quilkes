@@ -18,14 +18,13 @@ I am an ALX Graduate of Cohort 8 and a Front-end Developer from Nigeria.
 ## <span style="color: #3498db">:hammer_and_wrench: Languages and Tools</span>
 Here are some of the languages and tools I'm proficient in:
 
-- ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) React
-- ![Redux](https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg) Redux
-- ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg) CSS3
-- ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) HTML5
-- ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) JavaScript
-- ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) TypeScript
-- ![Jest](https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg) Jest
-
+- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+- <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
 ---
 
 Feel free to connect with me and explore my work!
