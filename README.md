@@ -7,7 +7,7 @@
 ---
 
 ## <span style="color: #3498db">:man_technologist: About Me</span>
-I am an ALX Graduate of Cohort 8 and a Front-end Developer from Nigeria.
+I am an [ALX Graduate of Cohort 8](https://alxafrica.com/software-engineering) and a passionate Front-end Developer from Nigeria. With a strong foundation in web development and a keen eye for design, I'm dedicated to crafting immersive and user-friendly digital experiences.
 
 - :telescope: I work as a Front-end programmer, contributing to building web applications.
 - :zap: In my free time, I enjoy watching football highlights.
