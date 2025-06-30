@@ -10,7 +10,9 @@
 I am an [ALX Software Engineering](https://alxafrica.com/software-engineering) student. - Cohort 8
 - :telescope: I work as a Front-end developer, contributing to building web applications.
 - :zap: In my free time, I enjoy watching football highlights.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-banniroy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/abdulmatin-adekola-63a58a254)
+- :mailbox: How to reach me:  
+  [![Linkedin Badge](https://img.shields.io/badge/-banniroy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/abdulmatin-adekola-63a58a254)  
+  [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/2348138318997)
 
 ---
 
