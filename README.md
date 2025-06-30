@@ -1,4 +1,4 @@
-# Abdulmatin Adekola - Front-end Developer
+# Abdulmatin Adekola - Software Developer
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -8,7 +8,7 @@
 
 ## <span style="color: #3498db">:man_technologist: About Me</span>
 I am an [ALX Software Engineering](https://alxafrica.com/software-engineering) student. - Cohort 8
-- :telescope: I work as a Front-end developer, contributing to building web applications.
+- :telescope: I work as a Software developer, contributing to building web applications.
 - :zap: In my free time, I enjoy watching football highlights.
 - :mailbox: How to reach me:  
   [![Linkedin Badge](https://img.shields.io/badge/-banniroy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/abdulmatin-adekola-63a58a254)  
